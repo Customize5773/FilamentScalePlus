@@ -33,4 +33,4 @@
 
 ---
 
-The total cost should be approximately $25-$35 depending on sourcing, with the most expensive components being the LCD display ($5-$8) and load cell ($4-$6). The vibration dampers and PTFE tubing add less than $3 to the BOM but provide significant performance improvements.
+The total cost should be approximately $25-$35 depending on sourcing.
