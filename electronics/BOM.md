@@ -17,9 +17,12 @@
 | **3D Printed Parts** | Enclosure/Guide Arms | - | PETG recommended |
 
 ## Optional Calibration Kit
-| Calibration Weight | 100g Precision Weight | 1 | For auto-calibration |
-| Leveling Feet | Adjustable Screw Feet | 3 | For precise leveling |
-| Anti-static Mat | ESD Mat | 1 | For calibration area |
+
+| Item             | Description           | Quantity | Purpose                 |
+|------------------|----------------------|----------|-------------------------|
+| Calibration Weight | 100g Precision Weight | 1        | For auto-calibration    |
+| Leveling Feet      | Adjustable Screw Feet | 3        | For precise leveling    |
+| Anti-static Mat    | ESD Mat               | 1        | For calibration area    |
 
 ## Key Improvements
 - **Vibration Damping**: Sorbothane feet reduce measurement noise
